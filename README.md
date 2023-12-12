@@ -7,3 +7,7 @@
 # How to run a scripts
 
 Download the scripts and adhere to the outlined process as specified within the notebook.
+
+# Additional Work (Image Contour Detection and Light Predictions)
+
+I have conducted further experimentation to explore image contour detection and light predictions. Please disregard these code snippets as they are not directly related to the main content provided.
