@@ -1,9 +1,9 @@
 # Object detection
 # object detection models inference scripts
 
-1. To load the customized model based on yolo and check the model perfomance using this scripts.
-2. Another methods like, SSD, FasterRCNN, pre-trained model to be load and checkout the outputs. 
+1. Implement loading a custom YOLO-based model and evaluate its performance using dedicated scripts.
+2. Explore alternative methods such as SSD, FasterRCNN, and pre-trained models by loading them and examining their respective outputs.
 
 # How to run a scripts
 
-1. Download the scripts and follow the process have mentioned in the notebook.
+Download the scripts and adhere to the outlined process as specified within the notebook.
