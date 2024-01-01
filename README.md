@@ -6,7 +6,7 @@
 
 # How to run a scripts
 
-Download the scripts and adhere to the outlined process as specified within the notebook.
+Download the scripts and adhere to the outlined process as specified within the notebook
 
 # Additional Work (Image Contour Detection and Light Predictions)
 
